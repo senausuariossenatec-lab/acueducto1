@@ -372,7 +372,7 @@ st.markdown("""
 
     
 
-💧 Sistema de Monitoreo Acueducto · Programa Talento Tech 2025
+💧 Sistema de Monitoreo Acueducto · SENATIC 2026 IEM ARTEMIO MENDOZA CARVAJAL 3147083
 
 
     
